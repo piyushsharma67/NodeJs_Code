@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW" :"corona@123",
+        "SECRET_KEY":"ddvjsdjksgdvkj"
+    }
+}
